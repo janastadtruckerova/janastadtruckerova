@@ -12,7 +12,7 @@ Mám záujem o **dátovú vedu a strojové učenie**, pričom sa zameriavam na *
 
 ## 📂 **Moje projekty**  
 🔹 **Predikcia cien nehnuteľností** – Regresné modely na analýzu realitného trhu  
-🔹 **Predikcia kryptomien** – Analýza časových radov a predikcia cien  
+🔹 **Predikcia cien kryptomien** – Analýza časových radov a predikcia cien  
 🔹 **Klasifikácia vína** – Modely na určovanie kvality vína  
 🔹 **Random Forest klasifikácia** – Použitie rozhodovacích stromov  
 🔹 **KNN a logistická regresia** – Porovnanie jednoduchých klasifikačných algoritmov  
