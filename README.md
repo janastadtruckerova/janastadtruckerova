@@ -2,24 +2,23 @@
 
 # 👋 Vítam vás na mojom GitHub profile!
 
-Mám záujem o **dátovú vedu a strojové učenie**, pričom sa zameriavam na **jednoduchšie modely**, ktoré sú interpretovateľné a prakticky využiteľné. Aktívne sa vzdelávam a pracujem na projektoch, ktoré mi pomáhajú rozvíjať moje schopnosti v oblasti analýzy dát.
+Mám hlboký záujem o **analýzu dát, strojové učenie (ML) a tvorbu praktických dátových riešení**.
 
+Aktívne **experimentujem s AI nástrojmi** (Google AI Studio, Gemini, Copilot), aby som zefektívnila vývoj. Zameriavam sa na **jednoduchšie, interpretovateľné modely** (napr. prediktory, klasifikátory), ktorých **praktická využiteľnosť a robustnosť** sú overené mojou dlhoročnou analytickou expertízou.
+
+Priebežne rozvíjam svoje zručnosti na projektoch (Python/SQL) s dôrazom na dátovú kvalitu a architektúru riešení.
 ## 📌 **O mne**
 - 🎯 Zaujímam sa o **regresné a klasifikačné modely**
-- 📊 Pracujem s **Pythonom, Pandas, Scikit-learn a Matplotlib**
+- 📊 Pracujem s **Pythonom, Pandas, Scikit-learn a Matplotlib, Seaborn**
 - 📈 Skúmam metódy vizualizácie dát pre lepšie pochopenie analýz
 - 🏆 Využívam modely ako **lineárna regresia, logistická regresia, KNN a Random Forest, Naive Bayes**
-- 💡 Aktuálne si rozširujem vedomosti a praktické zručnosti v **komplexnom kurze Python pre dátovú vedu**, ktorý mi pomáha prehlbovať chápanie pokročilejších analytických techník a vizualizácií.
+- 💡 Aktuálne si rozširujem vedomosti a praktické zručnosti v práci v jazyku  **Python pre dátovú vedu**, ktorý mi pomáha prehlbovať chápanie pokročilejších analytických techník a vizualizácií.
+- 💡 Aktívne experimentujem s **AI nástrojmi Google AI studio, Gemini, Copilot**, ktorýé mi pomáhajú zrýchliť prototypovanie a validáciu logiky kódu.
 
 ## 📂 **Moje projekty**
-* **Analýza Vplyvu AI a uatomatizácie na pracovné pozície** – Skúmanie projekcií rastu pozícií v závislosti od úrovne adaptácie AI. https://github.com/janastadtruckerova/Python-for-data-science/blob/main/ai_job_market_analysis/README.md
+* **AI act chatbot Prototype LLM** – funkčný prototyp chatbota, ktorý poskytuje základné informácie o AI act (Zákon o AI - európska legislatíva) v SJ a AJ. https://github.com/janastadtruckerova/AI-Act-Chatbot-Prototype-LLM
+* **Analýza Vplyvu AI a automatizácie na pracovné pozície** – Skúmanie projekcií rastu pozícií v závislosti od úrovne adaptácie AI. https://github.com/janastadtruckerova/Python-for-data-science/blob/main/ai_job_market_analysis/README.md
 * **Analýza HDP a Strednej Dĺžky Života** – Hĺbková explorácia ekonomického rastu a kvality života v šiestich krajinách (2000-2015). https://github.com/janastadtruckerova/Python-for-data-science/blob/main/gdp_leaby_analysis/README.md
-* **Predikcia cien nehnuteľností** – Regresné modely na analýzu realitného trhu
-* **EDA cien nehnuteľností** – EDA analýza cien nehnuteľností
-* **Predikcia cien kryptomien** – Analýza časových radov a predikcia cien
-* **Klasifikácia vína** – Modely na určovanie kvality vína
-* **Random Forest klasifikácia** – Použitie rozhodovacích stromov
-* **KNN a logistická regresia** – Porovnanie jednoduchých klasifikačných algoritmov
 
 📌 Viac informácií nájdete v jednotlivých priečinkoch (projektoch) v tomto repozitári.
 
@@ -28,6 +27,7 @@ Mám záujem o **dátovú vedu a strojové učenie**, pričom sa zameriavam na *
 * Sledujem trendy v oblasti **dátovej analýzy a vizualizácie**
 * Skúmam **jednoduchšie algoritmy s vysokou praktickou hodnotou**
 * Prehlbujem si zručnosti v **Pythone pre dátovú vedu** prostredníctvom praktických projektov a teoretických základov.
+* Experimentujem s **AI nástrojmi Google AI studio, Gemini, Copilot**
 
 ## 🌍 **Kontakt**
 📌 **GitHub:** https://github.com/janastadtruckerova
